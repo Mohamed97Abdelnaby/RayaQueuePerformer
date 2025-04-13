@@ -1,0 +1,2 @@
+
+The "Screenshots" folder should contain images of Business Exceptions encountered during processing. This folder should be cleared at the start of each new robot run. For any exceptions that occur, the screenshots taken should be sent to the designated recipients.

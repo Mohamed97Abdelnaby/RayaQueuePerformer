@@ -1,0 +1,33 @@
+{
+  "DisplayName": "Main",
+  "Tooltip": null,
+  "HelpLink": null,
+  "Color": null,
+  "OriginalIconFileName": null,
+  "Arguments": [
+    {
+      "Name": "in_OrchestratorFolderFullPath",
+      "DisplayName": "in_OrchestratorFolderFullPath",
+      "Category": null,
+      "Tooltip": null,
+      "Placeholder": "AhmedShawkey/RayaHolding/EmployeeOnboard/Performer",
+      "Widget": null,
+      "IsRequired": false,
+      "IsPrincipal": true,
+      "ArgumentType": 0,
+      "DataSourceItems": null
+    },
+    {
+      "Name": "in_OrchestratorAssetsRelativeEndPoint",
+      "DisplayName": "in_OrchestratorAssetsRelativeEndPoint",
+      "Category": null,
+      "Tooltip": "relative endpoint to access Assets for specific folder on orchestrator using Orch. API activities",
+      "Placeholder": "/odata/Assets/UiPath.Server.Configuration.OData.GetFiltered",
+      "Widget": null,
+      "IsRequired": false,
+      "IsPrincipal": true,
+      "ArgumentType": 0,
+      "DataSourceItems": null
+    }
+  ]
+}
